@@ -7,7 +7,10 @@ import authRoute from "./routes/authRoute.js";
 import ServiceRoute from "./routes/ServiceRoute.js"
 import cors from 'cors';
 import path from "path";
-const __dirname = path.resolve();
+import { fileURLToPath } from 'url';
+const __filename = fileURLToPath(import.meta.url);
+
+const __dirname = path.dirname(__filename);
 //env config
 dotenv.config();
 
