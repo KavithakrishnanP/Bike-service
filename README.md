@@ -36,3 +36,7 @@ BRAINTREE_PRIVATE_KEY =6189b182cd31be48df76119ba7faed67
 Admin details
 mail-bikeservices360@gmail.com
 password-Admin360@123
+
+Deployed Link
+
+https://bikes-7f6j.onrender.com/
