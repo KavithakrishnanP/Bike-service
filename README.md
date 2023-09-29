@@ -1,4 +1,8 @@
 # Bike-service
+Bike Service is a MERN project. 
+React for frontend, Bootstrap for design, MongoDb for Data Storage, Node for Server-side and Express.js.
+
+Deployment
 
 Hosting site:https://render.com/
 
@@ -13,6 +17,7 @@ Steps to be followed
 
 
 PORT = 8080
+
 DEV_MODE = development
 MONGO_URL = mongodb+srv://bike:bike@bikeservice.u17bbmx.mongodb.net/
 JWT_SECRET = HVJNDKIOWL158943
