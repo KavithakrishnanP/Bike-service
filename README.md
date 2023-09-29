@@ -1,5 +1,6 @@
 # Bike-service
 Bike Service is a MERN project. 
+
 React for frontend, Bootstrap for design, MongoDb for Data Storage, Node for Server-side and Express.js.
 
 Deployment
@@ -19,10 +20,15 @@ Steps to be followed
 PORT = 8080
 
 DEV_MODE = development
+
 MONGO_URL = mongodb+srv://bike:bike@bikeservice.u17bbmx.mongodb.net/
+
 JWT_SECRET = HVJNDKIOWL158943
+
 BRAINTREE_MERCHANT_ID= mykf7dtzg2r9hnzh
+
 BRAINTREE_PUBLIC_KEY =5t5w8f7kn3d7cdx4
+
 BRAINTREE_PRIVATE_KEY =6189b182cd31be48df76119ba7faed67
 
 5.deploy
